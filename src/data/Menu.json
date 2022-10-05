@@ -1,0 +1,19 @@
+[
+    {
+        "id": "1",
+        "nombre": "Copa Airlines"  
+    },
+    
+    {
+        "id": "2",
+        "nombre": "LATAM Airlines "
+    },
+    {
+        "id": "3",
+        "nombre": "Sky Airline" 
+    },
+    {
+        "id": "4",
+        "nombre": "JetSmart"  
+    }
+]   
